@@ -1,0 +1,8 @@
+{
+	"name": "com.extevious.collections",
+	"version": "1.0.0",
+	"dependencies": {},
+	"description": "Module of lists, pools, and other collections.",
+	"displayName": "Collections",
+	"type": "module"
+}
